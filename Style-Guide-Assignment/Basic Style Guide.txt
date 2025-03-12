@@ -1,0 +1,20 @@
+Basic Style Guide for Cheryl's Portfolio Website
+
+Fonts, Styles, and Type Sizes
+
+Font family: Verdana
+Heading 1: Verdana bold, 24 px
+Heading 2: Verdana bold, 20 px
+Heading 3: Verdana bold, 18 px
+
+Paragraph text: Verdana regular, 14 px
+
+Text Alignment
+
+All test will be left aligned.
+
+Answers to the assignment questions:
+
+1. I chose the Verdana font family.
+2. I chose this font family because I like the clean shapes of the letters, the uniform kerning (letter spacing), and the professional look and feel.
+3. I have a portfolio page on my business website, so I created a super basic page for this assignment. My page on GitHub is Cheryl-Landes-Portfolio-Website.html, and the portfolio page on my business website is https://tabbycatco.com/portfolio.
